@@ -1,2 +1,2 @@
 # practicegithub
-联系操作github
+练习操作github
