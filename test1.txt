@@ -3,4 +3,5 @@ import ..
 
 for(int a=1,a++):
 	a>3
+	a=b
 	break
