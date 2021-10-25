@@ -1,4 +1,4 @@
-import ..
+import os
 #11133333333
 
 for(int a=1,a++):
